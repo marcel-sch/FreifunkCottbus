@@ -1,0 +1,36 @@
+{
+  "name": "Freifunk Cottbus",
+  "url": "http://cottbus.freifunk.net",
+  "location": {
+    "city": "Cottbus",
+    "country": "DE",
+    "lat": 51.757689,
+    "lon": 14.328879
+  },
+  "contact": {
+    "email": "noc@freifunk-cottbus.de",
+    "twitter": "@freifunkcottbus"
+  },
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi"
+    ],
+    "lastchange": "2015-08-28T06:31:14.207Z"
+  },
+  "techDetails": {
+    "firmware": {
+      "name": "kathleen"
+    },
+    "routing": [
+      "OLSR"
+    ],
+    "updatemode": [
+      "manual"
+    ],
+    "legals": [
+      "vpnnational"
+    ]
+  },
+  "api": "0.4.8"
+}
